@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-03T22:09:22 IST" name="Default suite" finished-at="2021-07-03T22:09:26 IST" duration-ms="4142">
+    <groups>
+    </groups>
+    <test started-at="2021-07-03T22:09:22 IST" name="Default test" finished-at="2021-07-03T22:09:26 IST" duration-ms="4142">
+      <class name="packone.OneTest">
+        <test-method signature="testoneA()[pri:0, instance:packone.OneTest@41fecb8b]" started-at="2021-07-03T22:09:22 IST" name="testoneA" finished-at="2021-07-03T22:09:26 IST" duration-ms="4102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testoneA -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:packone.OneTest@41fecb8b]" started-at="2021-07-03T22:09:26 IST" name="teardown" finished-at="2021-07-03T22:09:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method signature="testoneB()[pri:0, instance:packone.OneTest@41fecb8b]" started-at="2021-07-03T22:09:26 IST" name="testoneB" finished-at="2021-07-03T22:09:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testoneB -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:packone.OneTest@41fecb8b]" started-at="2021-07-03T22:09:26 IST" name="teardown" finished-at="2021-07-03T22:09:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- packone.OneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
